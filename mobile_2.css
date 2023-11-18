@@ -1,0 +1,45 @@
+@media screen and (max-width:678px) {
+    .gaps {
+        gap: 48px;
+    }
+
+    .main__head h1 {
+        font-size: 32px;
+    }
+
+    #garand_h1 {
+        font-size: 32px;
+    }
+
+    .garand__left {
+        height: 48px;
+    }
+
+    .garand__left h1 {
+        font-size: 32px;
+    }
+
+    .garand__box h1 {
+        font-size: 28px;
+    }
+
+    .projects h1 {
+        font-size: 32px;
+    }
+
+    .comments h1 {
+        font-size: 32px;
+    }
+
+    .comments__text h1 {
+        font-size: 20px;
+    }
+
+    .order__text h1 {
+        font-size: 32px;
+    }
+
+    .projects {
+        max-width: 320px;
+    }
+}
